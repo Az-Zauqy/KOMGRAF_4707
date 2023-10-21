@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697883028 source:d:\kuliah\semester 5\komputer grafik\hw-3\hw-3\hw-4\main.cpp
+	<GL/glut.h>
+	<iostream>
+
